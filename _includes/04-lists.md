@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+Listas de emojis
+ 1. :smile:
+ 2. :+1:
+  1. Otros emojis
+  2. No funciona
